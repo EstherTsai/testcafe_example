@@ -1,2 +1,7 @@
-# testcafe_example
-example for using test cafe framework 
+# Install test cafe 
+npm install -g testcafe
+
+# Run test case
+testcafe chrome test1.js
+
+ref: https://devexpress.github.io/testcafe/documentation/getting-started/
